@@ -1,3 +1,1 @@
-# public-apis
-
-A collective list of free APIs
+Try Public APIs for free
